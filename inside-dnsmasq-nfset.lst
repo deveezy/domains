@@ -593,5 +593,6 @@ nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/rr5---sn-ntq7yney.googlevideo.com/4#inet#fw4#vpn_domains
 nftset=/googleads.g.doubleclick.net/4#inet#fw4#vpn_domains
+nftset=/static.doubleclick.net/4#inet#fw4#vpn_domains
 nftset=/fonts.gstatic.com/4#inet#fw4#vpn_domains
 nftset=/fonts.googleapis.com/4#inet#fw4#vpn_domains
