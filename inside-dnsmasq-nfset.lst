@@ -1,4 +1,3 @@
-
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
@@ -2229,5 +2228,6 @@ nftset=/warsaw10155.discord.gg/4#inet#fw4#vpn_domains
 nftset=/warsaw10156.discord.gg/4#inet#fw4#vpn_domains
 nftset=/warsaw10157.discord.gg/4#inet#fw4#vpn_domains
 nftset=/warsaw10158.discord.gg/4#inet#fw4#vpn_domains
-nftset=/normcheliki.jetbrains.space/4#inet#fw4#vpn_domains
-
+nftset=/resources.jetbrains.com/4#inet#fw4#vpn_domains
+nftset=/www.jetbrains.com/4#inet#fw4#vpn_domains
+nftset=/fonts.gstatic.com/4#inet#fw4#vpn_domains
