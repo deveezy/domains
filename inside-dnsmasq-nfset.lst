@@ -10,6 +10,7 @@ nftset=normcheliki.eu-1.jetbrains.space/4#inet#fw4#vpn_domains
 nftset=assets.service.jetbrains.space/4#inet#fw4#vpn_domains
 nftset=normcheliki.jetbrains.space/d/4#inet#fw4#vpn_domains
 nftset=account.jetbrains.com/4#inet#fw4#vpn_domains
+nftset=account.jetbrains.space/4#inet#fw4#vpn_domains
 
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
